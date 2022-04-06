@@ -43,4 +43,3 @@ public class CO1_4 {
         System.out.println("Ram Clock speed = " + ram.getClockSpeed());
     }
 }
-      
